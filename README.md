@@ -8,7 +8,7 @@
 7. 위까지 진행하면 해당 프로젝트 폴더가 생김
 8. 해당 폴더를 vscode에서 열기
 9.  기본 버전이 19.x생성->18.3.1로변경
-				package.json-> react: 18.3.1, react-dom:18.3.1로 수정하기
+		package.json-> react: 18.3.1, react-dom:18.3.1로 수정하기
 10.수정 환료 후 터미널 열기 (Ctrl + `)
 11.npm install
 12.npm run dev
